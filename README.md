@@ -52,4 +52,11 @@ An end-to-end data analytics project to analyze vendor performance using SQL, Py
    - Detect vendors with declining performance
    - Suggest contract renegotiation or vendor replacement
 
+## 📂 Dataset Access
+
+The dataset used in this project can be accessed from the following link:
+
+🔗 [Click here to access the dataset](https://topmate.io/ayushi_mishra/1557424)
+
+> *Note: Please ensure you have the necessary permissions or account access to view or download the dataset.*
 ---
